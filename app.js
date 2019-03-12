@@ -6,5 +6,5 @@ data(){
         message:'Hello Vue.js!',
     }
 },
-
+console.glog("hello");
 })
